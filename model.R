@@ -1,6 +1,6 @@
 ### Code for Black Friday Data Hack on AnalyticsVidhya
-### Author: Rohan Rao
-### Date: 2015-11-23
+### Author: Gaurav Jha
+### Date: 07/12/2016
 
 ## setting working directory
 path <- ""   # edit the path where the data is located
